@@ -62,7 +62,8 @@ WHERE
   `egb`.`estimate_order_group_id` = '2400183'
 ```
 ### Detail
-<img width="1145" alt="image" src="https://github.com/user-attachments/assets/711b3f50-e97d-4814-91a6-842ff3974cb3" />
+<img width="1296" alt="image" src="https://github.com/user-attachments/assets/d56758c0-cb16-4582-b8d8-8e26367d72b2" />
+
 
 ## 4. Query ini bisa dicek apakah ada yang terindex dan perlu penambaha where statment date saat halamannya dibuka
 ```
